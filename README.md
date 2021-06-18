@@ -6,7 +6,7 @@
 
 ## 📦 Pacotes
 
- * [Bunifu Framwork](https://bunifuframework.com/)
+ * [Bunifu Framework](https://bunifuframework.com/)
  > De forma a criar botões e label's mais intuituvas ao utilizador.
 
 
